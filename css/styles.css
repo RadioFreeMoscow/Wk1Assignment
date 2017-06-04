@@ -33,6 +33,7 @@ header {
 .max {
     height: 200px;
     float: left;
+    align-items: start;
     padding: 10px;
 }
 .relaxr {
@@ -66,6 +67,7 @@ hr {
 }
 
 .indexhr {
+  align-items: end;
   border-top: 1px solid #222;
   margin: auto;
 }
