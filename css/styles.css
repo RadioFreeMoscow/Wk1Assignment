@@ -30,7 +30,9 @@ header {
 .title {
     font-family: 'Roboto', sans-serif;
 }
+
 .max {
+    display:inline-block;
     height: 200px;
     float: left;
     align-items: start;
@@ -38,7 +40,7 @@ header {
 }
 .relaxr {
   height: 300px;
-  position: float left;
+  float: left;
   padding: 0 20px 20px 0;
 
 }
@@ -81,6 +83,13 @@ h4{
 
 
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 
 footer{
   text-align: center;
