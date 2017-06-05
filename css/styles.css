@@ -14,7 +14,9 @@ nav li {
 }
 
 
-
+h1 {
+  font-family: 'Bungee Shade', cursive;
+}
 
 a {
     font-weight: bold;
