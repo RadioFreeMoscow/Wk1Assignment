@@ -1,10 +1,10 @@
 body {
-    background - color: #F6F6F6;
-    border - top: 5 px solid #222222;
-    border-bottom: 5px solid # 222222;
-    margin: 30 px auto;
-    padding: 50 px;
-    width: 800 px;
+    background-color: #F6F6F6;
+    border-top: 5px solid #222222;
+    border-bottom: 5px solid #222222;
+    margin: 30px auto;
+    padding: 50px;
+    width: 800px;
 }
 nav {
     color: #222;
@@ -18,51 +18,51 @@ nav li {
 
 a {
     font-weight: bold;
-    color: # 05080 c;
+    color: #05080c;
 }
 li.current_page a {
-    text - decoration: none;
-    font - style: italic;
+    text-decoration: none;
+    font-style: italic;
 }
 header {
-    text - align: center;
+    text-align: center;
 }
 .title {
-    font - family: 'Roboto', sans - serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .max {
-    display: inline - block;
-    height: 200 px;
+    display:inline-block;
+    height: 200px;
     float: left;
-    align - items: start;
-    padding: 10 px;
+    align-items: start;
+    padding: 10px;
 }
 .relaxr {
-    height: 300 px;
-    float: left;
-    padding: 0 20 px 20 px 0;
+  height: 300px;
+  float: left;
+  padding: 0 20px 20px 0;
 
 }
-p {
-    float: right
-    display: block;
-    width: 75 %
-        margin: auto
-    padding 0 10 0 0;
+p{
+  float: right
+  display: block;
+  width: 75%
+  margin:auto
+  padding 0 10 0 0;
 
 
 }
 
 .imgtitle {
-    font - family: 'Merriweather', cursive;
+    font-family: 'Merriweather', cursive;
 }
 ul {
     padding: 0;
 }
 hr {
 
-    border - top: 1 px solid #222;
+    border-top: 1px solid #222;
     margin: 30px 30px;
 
 
@@ -70,16 +70,16 @@ hr {
 
 .indexhr {
   align-items: end;
-  border-top: 1px solid # 222;
-    margin: auto;
+  border-top: 1px solid #222;
+  margin: auto;
 }
 .stabline {
-    margin: 100 px 100;
+    margin: 100px 100;
 
 }
 
-h4 {
-    font - family: 'VT323', monospace;
+h4{
+  font-family: 'VT323', monospace;
 
 
 }
@@ -91,6 +91,6 @@ h4 {
 }
 
 
-footer {
-    text - align: center;
+footer{
+  text-align: center;
 }
